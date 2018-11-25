@@ -28,7 +28,7 @@ It will create a 'train' directory with 100 images of each ethnicity (separate f
 
 To train the model run training.py
 ```
-python3 prep_dataset.py
+python3 training.py
 ```
 It shows the progress of the training and stores the weights for prediction
 
@@ -36,5 +36,5 @@ To test the model create a 'test' directory and add images
 Currently supported formats include : jpg,jpeg and png
 Run the testing.py
 ```
-python3 prep_dataset.py
+python3 testing.py
 ```
