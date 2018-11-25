@@ -6,8 +6,8 @@ For more information about the Face Recognition API : https://github.com/ageitge
 
 ## Requirements
 
-*Python 3.3+
-*Linux
+- Python 3.3+
+- Linux
 
 ### Required libraries and dependencies
 
