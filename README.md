@@ -25,6 +25,8 @@ python3 prep_dataset.py
 ```
 It will create a 'train' directory with 100 images of each ethnicity (separate folders for male and female)
 
+Refer to https://github.com/hardikvasa/google-images-download for more information on the image crawler
+
 To train the model run training.py
 ```
 python3 training.py
