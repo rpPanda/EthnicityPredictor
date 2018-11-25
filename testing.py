@@ -96,9 +96,7 @@ if __name__ == "__main__":
     # STEP 1: Train the KNN classifier and save it to disk
     # Once the model is trained and saved, you can skip this step next time.
     print("hello")
-    print(os.listdir("test/"))
     for image_file in os.listdir("test"):
-        print("hi")
         full_file_path = os.path.join("test", image_file)
 
         print("Looking for faces in {}".format(image_file))
