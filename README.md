@@ -1,4 +1,4 @@
-# Ethnicity Classifier
+# Ethnicity Classifier Dev
 A simple program using Resnet, Transfer Learning, Metric Learning and KNN-Classifiers to predict the ethnicity of a person using their images. The classification results were based on results from Google Images. Face Recognization API was used to extract facial features and compare them using Metric Learning. KNN-Classifier was used to cluster training dataset and test new images.
 
 
